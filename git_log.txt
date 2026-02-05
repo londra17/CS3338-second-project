@@ -1,0 +1,36 @@
+commit 425cf31a7cbb12aa6f2477cc81db4b7ccee136a9
+Merge: 62d0b3d 0d4a761
+Author: londra17 <londratorres177@gmail.com>
+Date:   Thu Feb 5 14:40:59 2026 -0800
+
+    Resolve merge conflict
+
+commit 0d4a76179aad57bf26fd3411ee9dfd8108bb1aa8
+Author: londra17 <londratorres177@gmail.com>
+Date:   Thu Feb 5 14:39:49 2026 -0800
+
+    Add favorite movie/game
+
+commit 62d0b3d665457f46a6f2854aadc692073afc2f59
+Author: londra17 <londratorres177@gmail.com>
+Date:   Thu Feb 5 14:37:43 2026 -0800
+
+    Add favorite food
+
+commit d4bdc85c082e775c86eb1d31881852aaaf07921a
+Author: londra17 <londratorres177@gmail.com>
+Date:   Thu Feb 5 14:33:44 2026 -0800
+
+    Add README
+
+commit 841621b9b53f7cd2e60a1bd1a58e543acee709ce
+Author: londra17 <londratorres177@gmail.com>
+Date:   Thu Feb 5 14:11:31 2026 -0800
+
+    Fill in info on index page
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
